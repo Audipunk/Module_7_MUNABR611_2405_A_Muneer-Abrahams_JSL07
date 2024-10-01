@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <h2>Certificate of Achievement</h2>
       <p>This is to certify that</p>
       <h3>${studentName}</h3>
-      <p>has almost completed the</p>
+      <p>has completed the</p>
       <h3>${courseName}</h3>
       <p>with legendary perseverance and world class bad-assery for never giving up💪</p>
       <p><img src = "logo.png" alt = "codespace logo"/></p>
