@@ -107,6 +107,8 @@ h1, .modal-content h2, .modal-content p {
   height: auto;
   display: block;
   margin: auto;
+}
+    {
   background-color: #659f8f;
   color:#fff;
   }
