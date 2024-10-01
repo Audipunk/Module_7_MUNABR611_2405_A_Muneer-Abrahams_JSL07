@@ -102,12 +102,16 @@ h1, .modal-content h2, .modal-content p {
 #certificateContent {
   background: #f9f9f9 url('path/to/your/decorative-border-image.png') center/contain no-repeat;
 }
-
-/* Adjust button styles to fit the theme */
-button {
-  background-color: #659f8f;
-  color: #fff;
+#certificateContent img {
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin: auto;
 }
+    {
+  background-color: #659f8f;
+  color:#fff;
+  }
 
 button:hover {
   background-color: #5d5f5e;
