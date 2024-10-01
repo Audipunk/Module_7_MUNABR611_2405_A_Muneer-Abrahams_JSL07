@@ -26,7 +26,7 @@ input {
 }
 
 button {
-  background-color: #23da8e;
+  background-color: #67c9a0;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -110,6 +110,6 @@ h1, .modal-content h2, .modal-content p {
 }
 
 button:hover {
-  background-color: #55d897;
+  background-color: #75b5ff;
 }
 
