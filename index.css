@@ -66,7 +66,7 @@ button:hover {
   position: absolute;
   top: -2px; right: -2px; bottom: -2px; left: -2px;
   z-index: -1;
-  background: linear-gradient(#659f8f, #5d5f5e);
+  background: linear-gradient(#4daa90, #5d5f5e);
   border-radius: 15px;
 }
 
