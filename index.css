@@ -32,7 +32,8 @@ button {
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
-  transition: background#007bff-color 0.3s;
+  transition: -color 0.3s;
+  background: #007bff ;
 }
 
 button:hover {
