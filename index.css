@@ -40,15 +40,13 @@ button:hover {
   background-color: #007bff;
 }
 
-/* Certificate Modal */
-
 .modal {
     max-width: 800px;
-    margin: 0 auto; /* Center horizontally */
+    margin: 0 auto; 
     position: fixed;
-    top: 50%; /* Center vertically */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%); /* Center both vertically and horizontally */
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
     z-index: 1;
   }
   
@@ -99,7 +97,6 @@ h1, .modal-content h2, .modal-content p {
   color: #dc7f5f;
 }
 
-/* Adding a fancy border to the certificate content */
 #certificateContent {
   background: #f9f9f9 url('path/to/your/decorative-border-image.png') center/contain no-repeat;
 }
