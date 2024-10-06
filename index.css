@@ -26,17 +26,17 @@ input {
 }
 
 button {
-  background-color: #43b183;
+  background-color: #009787 ;
   color: #fff;
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background#007bff-color 0.3s;
 }
 
 button:hover {
-  background-color: #557ff3;
+  background-color: #007bff;
 }
 
 /* Certificate Modal */
